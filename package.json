@@ -1,0 +1,34 @@
+{
+  "name": "MinecraftStyle",
+  "version": "1.0.0",
+  "description": "Converts texts using § from minecraft to text that can be printed in a terminal or command prompt."
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007",
+  "author": {
+    "name": "Haydan Fisher",
+    "email": "haydandfisher@gmail.com",
+    "url": "cloudcue.net",
+  },
+  "files": [
+    "MinecraftStyle.js"
+  ],
+  "keywords": [
+    "minecraft",
+    "§",
+    "command prompt",
+    "color",
+    "shell",
+    "log",
+    "command-line",
+    "text",
+    "color",
+    "styles",
+    "terminal",
+    "console",
+    "cli",
+    "string",
+    "formatting"
+  ],
+  "dependencies": {
+    "chalk": "4.1.2",
+  }
+}
